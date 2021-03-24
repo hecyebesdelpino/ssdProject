@@ -10,7 +10,7 @@ package ssdproject;
  * @author hecyebesdelpino
  */
 public class SsdProject {
-//HOLA ME LLAMO HECTOR
+//HOLA ME LLAMO HECTOR YE
     /**
      * @param args the command line arguments
      */
