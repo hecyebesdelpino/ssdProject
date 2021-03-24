@@ -10,6 +10,7 @@ package ssdproject;
  * @author hecyebesdelpino
  */
 public class SsdProject {
+//Hola
 
     /**
      * @param args the command line arguments
@@ -17,5 +18,5 @@ public class SsdProject {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+
 }
